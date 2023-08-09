@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\git\Bank\lib_Bank\bin\Debug\lib_Bank.dll
+C:\Users\admin\Desktop\git\Bank\lib_Bank\bin\Debug\lib_Bank.pdb
+C:\Users\admin\Desktop\git\Bank\lib_Bank\obj\Debug\lib_Bank.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\git\Bank\lib_Bank\obj\Debug\lib_Bank.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\git\Bank\lib_Bank\obj\Debug\lib_Bank.dll
+C:\Users\admin\Desktop\git\Bank\lib_Bank\obj\Debug\lib_Bank.pdb

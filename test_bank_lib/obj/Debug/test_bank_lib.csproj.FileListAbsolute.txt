@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\git\Bank\test_bank_lib\bin\Debug\test_bank_lib.exe.config
+C:\Users\admin\Desktop\git\Bank\test_bank_lib\bin\Debug\test_bank_lib.exe
+C:\Users\admin\Desktop\git\Bank\test_bank_lib\bin\Debug\test_bank_lib.pdb
+C:\Users\admin\Desktop\git\Bank\test_bank_lib\bin\Debug\lib_Bank.dll
+C:\Users\admin\Desktop\git\Bank\test_bank_lib\bin\Debug\lib_Bank.pdb
+C:\Users\admin\Desktop\git\Bank\test_bank_lib\obj\Debug\test_bank_lib.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\git\Bank\test_bank_lib\obj\Debug\test_bank_lib.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\git\Bank\test_bank_lib\obj\Debug\test_bank_lib.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\git\Bank\test_bank_lib\obj\Debug\test_bank_lib.csproj.CopyComplete
+C:\Users\admin\Desktop\git\Bank\test_bank_lib\obj\Debug\test_bank_lib.exe
+C:\Users\admin\Desktop\git\Bank\test_bank_lib\obj\Debug\test_bank_lib.pdb

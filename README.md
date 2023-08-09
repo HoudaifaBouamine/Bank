@@ -1,2 +1,2 @@
-# Bank_Managment_System
+# Bank Managment System
 Developing Bank managment system on C# .NET Framwork 
